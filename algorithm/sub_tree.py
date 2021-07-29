@@ -6,9 +6,9 @@
 #
 # 2.kmp算法判断T1与T2的序列化结果(T2>T1)
 #
-# 　　（1）如果seralize(T1)是seralize(T2)的子串，则T1是T2的子树
+# 　（1）如果seralize(T1)是seralize(T2)的子串，则T1是T2的子树
 #
-# 　　（2）否则，T1不是T2的子树
+# 　（2）否则，T1不是T2的子树
 
 class MyProperty:
     def __init__(self, get_attrib_func):
