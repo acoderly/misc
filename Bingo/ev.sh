@@ -1,0 +1,1 @@
+wget www.baidu.com
